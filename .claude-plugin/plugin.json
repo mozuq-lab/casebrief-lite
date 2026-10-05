@@ -1,0 +1,8 @@
+{
+  "name": "casebrief-lite",
+  "version": "0.1.0",
+  "description": "小さな修正のテスト観点と設計の入り口を 1 回で出す skill。diff・PR・Issue・修正の説明を入力に取る。",
+  "author": { "name": "mozuq" },
+  "repository": "https://github.com/mozuq-lab/casebrief-lite",
+  "keywords": ["test-design", "test-viewpoints", "code-change"]
+}

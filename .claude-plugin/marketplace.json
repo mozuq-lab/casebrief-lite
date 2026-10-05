@@ -1,0 +1,12 @@
+{
+  "name": "casebrief-lite",
+  "owner": { "name": "mozuq" },
+  "description": "casebrief-lite: 小さな修正のテスト観点と設計の入り口を出す Claude Code plugin",
+  "plugins": [
+    {
+      "name": "casebrief-lite",
+      "source": "./",
+      "description": "diff・PR・Issue・修正の説明から、変更の要約・設計の入り口・テスト観点・仮定を 1 画面で出す skill"
+    }
+  ]
+}
